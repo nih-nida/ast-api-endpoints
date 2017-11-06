@@ -16,6 +16,11 @@ https://www.drugabuse.gov/api/cme/875
 BSTAD 
 https://www.drugabuse.gov/api/cme/873
 
+# NMASSIST EndPoint
+You must [register](https://www.drugabuse.gov/nmassist_api/register) and generate an API Key before you will be able to use the API.
+
+Please follow the instructions at https://www.drugabuse.gov/developers. This documentation is in the process of being updated so please bear with us.
+
 Have any questions?
 Submit a request through the form below or open an issue ticket for this repository.
 https://www.drugabuse.gov/contact-developer-support-team
