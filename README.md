@@ -7,13 +7,13 @@ The data sources below are the question and report content we use to power the a
 # BSTAD and S2BI Summary Data
 https://www.drugabuse.gov/api/bstad-s2bi-summary
 
-# Question API Endpoints
+Question API Endpoints
 The questions contain all information related to question interdependencies. Question and summary data can be used independently in derivative applications.
 
-# S2BI 
+S2BI 
 https://www.drugabuse.gov/api/cme/875
 
-# BSTAD 
+BSTAD 
 https://www.drugabuse.gov/api/cme/873
 
 # UPDATE
