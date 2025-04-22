@@ -19,5 +19,4 @@ https://www.drugabuse.gov/api/cme/873
 # UPDATE
 At this time, there is no longer contractual support available for the Screening Tools API and its related "gateway".
 
-We are gathering interest in making the screening tools available for use in electronic health record (EHR) systems. If you or your organization are interested in adapting these screening tools for use in an EHR system, or if you wish to provide feedback on the screening tools, please use the web form at: 
-https://nida.nih.gov/nida-screening-tools-feedback
+Due to recent reductions in force at the NIH, NIDA no longer has the capacity to solicit feedback on the screening tools.
